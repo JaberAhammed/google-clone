@@ -1,3 +1,7 @@
+*{
+    color:#353333e0
+}
+
 img{
     width: 300px;
     margin-top: 120px;
@@ -27,4 +31,16 @@ input{
 .subBTN{
     margin-left: 533px;
     padding-top: 30px;
+}
+button{
+    padding: 10px 15px;
+}
+.offer{
+    margin-left: 545px;
+    margin-top: 40px;
+}
+
+small{
+    margin-top: 200px;
+    margin-bottom: 120px;
 }
